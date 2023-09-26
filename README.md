@@ -1,1 +1,1 @@
-# vizitka_pelegrinova
+Druhý úkol kurzu Staň se kodérkou: vizitka (osobní variace).
